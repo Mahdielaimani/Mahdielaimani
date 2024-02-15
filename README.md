@@ -30,14 +30,6 @@
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hamzabgh&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabgh)](https://github.com/hamzabgh/hamzabgh)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamzabgh&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
-### 🌐 Social links
-[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzabgh)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-boughanim/)
-[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](hamzaboughanim06@gmail.com)
-
 ### Tools & Technologies
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
