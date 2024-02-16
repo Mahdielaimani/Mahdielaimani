@@ -1,6 +1,5 @@
 
-<h3>Hi there 👋, my name is El MAHDI EL AIMANI Ai & Virtual Reality Engineer</h3>
-<h5>Flutter Android & iOS Developer</h5>
+<h3>👋El MAHDI EL AIMANI Ai & Virtual Reality Engineer | Flutter Android & iOS Developer</h3>
 
 AI & Software Engineering
 
