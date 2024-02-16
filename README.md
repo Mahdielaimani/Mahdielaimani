@@ -1,13 +1,8 @@
-## Hi there 👋, my name is El MAHDI EL AIMANI Ai & Virtual Reality Engineer | Flutter Android & iOS
+<h2 ## Hi there 👋, my name is El MAHDI EL AIMANI Ai & Virtual Reality Engineer | Flutter Android & iOS /h2>
 
  AI & software engineering 
 
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://BigGtpoint.io)
-
-### ⚡ Daily quote:
-<!--STARTS_HERE_QUOTE_README-->
-<i>“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” – Antoine de Saint-Exupery</i>
-<!--ENDS_HERE_QUOTE_README-->
 
 <img align="right" alt="condig_gif" width="330" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
