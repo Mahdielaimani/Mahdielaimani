@@ -1,7 +1,10 @@
  ## Hi there 👋, my name is El MAHDI EL AIMANI Ai & Virtual Reality Engineer
- |<h1 Flutter Android & iOS Developer /h1>
+<h2>Flutter Android & iOS Developer</h2>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+</a>
 
- AI & software engineering 
+<h2>AI & Software Engineering</h2>
 
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://BigGtpoint.io)
 
