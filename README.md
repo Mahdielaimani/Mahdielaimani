@@ -1,13 +1,13 @@
  ## Hi there 👋, my name is El MAHDI EL AIMANI Ai & Virtual Reality Engineer
- <h2>Hi there 👋, my name is El MAHDI EL AIMANI</h2>
-<h2><img src="lien_vers_votre_icone_AI" alt="AI" width="40" height="40"/> Ai & Virtual Reality Engineer</h2>
+<h2>Hi there 👋, my name is El MAHDI EL AIMANI</h2>
+<h2>Ai & Virtual Reality Engineer</h2>
 
-<h2>Flutter Android & iOS Developer</h2>
+<h3>Flutter Android & iOS Developer</h3>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 </a>
 
-<h2>AI & Software Engineering</h2>
+<h4>AI & Software Engineering</h4>
 
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://BigGtpoint.io)
 
