@@ -1,6 +1,6 @@
-## Hi there 👋, my name is El MAHDI EL AIMANI
+## Hi there 👋, my name is El MAHDI EL AIMANI Ai & Virtual Reality Engineer | Flutter Android & iOS
 
-*I'm highly passionate about software engineering and determined to leverage my skills and experience to create innovative software solutions.*
+*I'm highly passionate about software & AI engineering 
 
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://BigGtpoint.io)
 
