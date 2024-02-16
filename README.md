@@ -1,4 +1,5 @@
-<h1 ## Hi there 👋, my name is El MAHDI EL AIMANI Ai & Virtual Reality Engineer | Flutter Android & iOS /h1>
+ ## Hi there 👋, my name is El MAHDI EL AIMANI Ai & Virtual Reality Engineer
+ | Flutter Android & iOS 
 
  AI & software engineering 
 
