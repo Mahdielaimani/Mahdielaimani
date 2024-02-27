@@ -7,7 +7,6 @@ Hi there 👋, my name is El MAHDI EL AIMANI AI & Software Engineering
 
 <img align="right" alt="condig_gif" width="330" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biggtpoint&label=Profile%20views&color=0e75b6&style=flat" alt="biggtpoint" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
