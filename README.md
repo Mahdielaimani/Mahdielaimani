@@ -9,7 +9,6 @@ Hi there 👋, my name is El MAHDI EL AIMANI AI & Software Engineering
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biggtpoint&label=Profile%20views&color=0e75b6&style=flat" alt="biggtpoint" /> </p>
 
-<p align="left"> <a href="https://twitter.com/geminitwins0" target="blank"><img src="https://img.shields.io/twitter/follow/geminitwins0?logo=twitter&style=for-the-badge" alt="hamza boughanim" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.python.org"
