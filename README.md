@@ -38,5 +38,3 @@ Hi there 👋, my name is El MAHDI EL AIMANI AI & Software Engineering
 </p>
   
 
-### 💫 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamzabgh&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
